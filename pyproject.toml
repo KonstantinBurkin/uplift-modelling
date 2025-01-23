@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "uplift-modelling"
+version = "0.1.0"
+description = "Analyzing effect of treatment on patients"
+authors = ["Konstantin Burkin"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+catboost = "^1.2.7"
+scikit-learn = "^1.6.1"
+joblib = "^1.4.2"
+seaborn = "^0.13.2"
+shap = "^0.46.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
