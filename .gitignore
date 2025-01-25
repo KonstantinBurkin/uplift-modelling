@@ -175,6 +175,8 @@ cython_debug/
 
 # ignore all data files
 data
+models
+catboost_info
 
 # ignore macOS crumbs
 .DS_Store
