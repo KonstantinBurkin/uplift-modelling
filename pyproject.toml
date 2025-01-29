@@ -16,6 +16,7 @@ shap = "^0.46.0"
 polars = "^1.20.0"
 openpyxl = "^3.1.5"
 nbformat = "^5.10.4"
+scikit-uplift = "^0.5.1"
 
 
 [build-system]
