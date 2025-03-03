@@ -2,7 +2,7 @@
 
 the aim of the project is to model risk increase in patients with uplift modelling
 
-Results
+## Results
 - Data was preprocessed
     - imputed
     - analyzed for outliers
