@@ -1,6 +1,6 @@
 # uplift-modelling
 
-the aim of the project is to model risk increase in patients with uplift modelling
+The aim of the project is to assess risk increase in patients with uplift modelling
 
 ## Results
 - Data was preprocessed
