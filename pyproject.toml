@@ -19,6 +19,7 @@ nbformat = "^5.10.4"
 scikit-uplift = "^0.5.1"
 fastexcel = "^0.12.1"
 pyarrow = "^19.0.0"
+lightgbm = "^4.6.0"
 
 
 [build-system]
