@@ -15,7 +15,7 @@ This repository implements an applied pipeline for prognostic risk modelling and
 - Processed training/test splits and serialized datasets are saved.
 
 ## Model development
-- Model training and evaluation are implemented in [notebooks/2_boosting.ipynb](notebooks/2_boosting.ipynb). The fitted prognostic model is persisted as:
+- Model training and evaluation are implemented in [notebooks/2_boosting.ipynb](notebooks/2_boosting.ipynb) and [2_select_models](notebooks/2_select_models.ipynb). The fitted prognostic model is persisted as:
   - [models/catboost_subset_genetics_cyp.joblib](models/catboost_subset_genetics_cyp.joblib)
 - Notebooks illustrate CatBoost configuration, training, AUC evaluation and SHAP-based interpretation.
 
