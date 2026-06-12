@@ -1,4 +1,4 @@
-# project overview
+# Research project: Medicine intake assessment in patients with uplift modelling
 
 ## Abstract
 This repository implements an applied pipeline for prognostic risk modelling and uplift analysis in a clinical cohort. The workflow includes data ingestion, preprocessing (including iterative imputation and outlier analysis), prognostic model training (CatBoost) and an uplift-style analysis to quantify treatment receptivity.
